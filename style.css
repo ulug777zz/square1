@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.square {
+    width: 400px;
+    height: 400px;
+    background-color: chartreuse;
+    box-sizing: border-box;
+    border: 15px;
+    margin-top: 150px;
+    
+    
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
